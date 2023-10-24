@@ -1,0 +1,17 @@
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\EntityFramework.dll
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\EntityFramework.xml
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.BasariliGiris.resources
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Yusuf\Desktop\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.SifreSifirla.resources
